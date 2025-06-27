@@ -1,12 +1,35 @@
-# React + Vite
+# RobbySim 3000 - Simulador Realista de Braço Robótico 🤖✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vinda(o) ao **RobbySim 3000**, um simulador visual e interativo de braço robótico com controle por sliders.  
+Este projeto foi desenvolvido para praticar React, Tailwind CSS e conceitos de manipulação SVG com rotação dinâmica.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Funcionalidades
 
-## Expanding the ESLint configuration
+- Braço robótico com duas articulações principais (base e braço superior) controladas por sliders
+- Mão robótica em forma de pinça articulada
+- Visual futurista com cores metálicas e degradês
+- Mascote robô simpático explicando como usar os controles
+- Layout totalmente responsivo para desktop e dispositivos móveis
+- Animação suave na entrada do mascote
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tecnologias usadas
+
+- React (Functional Components + Hooks)
+- Tailwind CSS v4 (estilização e animações)
+- SVG para representação gráfica do braço robótico
+- Vite (ferramenta de build rápida e leve)
+
+---
+
+## 📱 Como usar
+
+1. **Clone o repositório:**
+
+```bash
+git clone https://github.com/seu-usuario/robbySim3000.git
+cd robbySim3000
+
